@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/baslikgizle"
+        android:icon="@drawable/list"
+        android:title="@string/ekle"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/notusil"
+        android:icon="@drawable/delete"
+        android:title="@string/ekle"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/notuekle"
+        android:icon="@drawable/tamam"
+        android:title="@string/ekle"
+        app:showAsAction="always" />
+</menu>

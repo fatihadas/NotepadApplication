@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Not Defterim</string>
+    <string name="anasayfagecis">ca-app-pub-8649097782427195/6551001104</string>
+
+
+    <string name="tumunusil">Tümünü Sil</string>
+    <string name="tumunusilicerik">Kaydettiğiniz tüm notlar silinecek emin misiniz?</string>
+    <string name="tumusilindi">Kaydettiğiniz tüm notlar silindi.</string>
+    <string name="uyghakkinda">Uygulama hakkında</string>
+    <string name="uygpaylas">Uygulamayı paylaş</string>
+    <string name="destek">Destek ver</string>
+    <string name="uygulamalar">Uygulamalarımız</string>
+    <string name="katki">Katkıda bulun</string>
+    <string name="urluygulama">https://play.google.com/store/apps/details?id=com.projects.notdefterim</string>
+    <string name="btnevet">Evet</string>
+    <string name="btnkapat">Kapat</string>
+    <string name="btnhayir">Hayır</string>
+
+    <string name="baslikgizle">Başlığı Gizle</string>
+    <string name="sil">Sil</string>
+    <string name="ekle">Not Ekle</string>
+    <string name="arama">Arama</string>
+
+    <string name="backbutonmesaj">Uygulamanın geliştirilmesine yardımcı olmak için reklam görmek ister misiniz?</string>
+    <string name="appsparametre">market://search?q=pub:Creative+APP</string>
+    <string name="appsurl">https://play.google.com/store/apps/developer?id=Creative+APP</string>
+    <string name="hakkindabaslik">Notlarım Hakkında</string>
+    <string name="hakkindaicerik">Bu uygulama ile uygulamanıza not kaydedebilirsiniz.\n\nDaha sonra bu notları düzenleyebilir silebilirsiniz.\n\nAyrıca bu notları kopyalayabilir ve istediğiniz yerde paylaşabilirsiniz.\n\nHer türlü görüş ve önerileriniz için bizimle iletişime geçiniz.</string>
+
+
+
+
+</resources>
